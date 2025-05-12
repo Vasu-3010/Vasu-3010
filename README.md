@@ -9,13 +9,11 @@
  projects. Looking for an opportunity to contribute to a dynamic team and enhance my technical expertise. </p>
 
 ##📚 Education
-<li>
-  <ul>U.V. Patel College of engineering, Ganpat University, Kherva</ul>
+<ul>U.V. Patel College of engineering, Ganpat University, Kherva</ul>
   <li>
     <ul>Program : B.Tech Information Technology </ul>
     <ul>Year : 3rd Year (currently)</ul>
   </li>
-</li>
 
 ---
 
