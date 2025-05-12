@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://your-gif-host.com/animated-hi-im-vasu.gif" alt="Hi, I'm Vasu Viroja" width="400"/></h1>
+<h1 align="center">Hi, I'm Vasu Viroja</h1>
 
 <p align="center">
   <b>Web Developer | Student | Open Source Enthusiast</b>
@@ -11,7 +11,7 @@
 <ul>
   <li>💡 I enjoy building web applications using HTML, CSS, JavaScript, PHP</li>
   <li>🌱 I’m currently learning React.js and cloud technologies</li>
-  <li>📫 Reach me at: <a href="mailto:vasu@example.com">vasu@example.com</a></li>
+  <li>📫 Reach me at: <a href="http://www.linkedin.com/in/vasuviroja101">vasuviroja101</a></li>
 </ul>
 
 ---
