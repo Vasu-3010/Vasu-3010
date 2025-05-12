@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vasu Viroja</h1>
+<h1 align="center">Hi 👋 I'm Vasu Viroja</h1>
 
 <p align="center">
   <b>Web Developer | Student | Open Source Enthusiast</b>
@@ -8,6 +8,14 @@
 <p>Motivated and detail-oriented B.Tech IT student with a foundation in programming, web development, and database management. Passionate about technology and eager to apply problem-solving skills in real-world
  projects. Looking for an opportunity to contribute to a dynamic team and enhance my technical expertise. </p>
 
+##📚 Education
+<li>
+  <ul>U.V. Patel College of engineering, Ganpat University, Kherva</ul>
+  <li>
+    <ul>Program : B.Tech Information Technology </ul>
+    <ul>Year : 3rd Year (currently)</ul>
+  </li>
+</li>
 
 ---
 
