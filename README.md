@@ -1,16 +1,23 @@
-# 👋 Hi, I'm Vasu Viroja
+<h1 align="center">👋 Hi, I'm Vasu Viroja</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <b>Web Developer | Student | Open Source Enthusiast</b>
+</p>
 
-## 🔧 Technologies I Work With
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- Git & GitHub
+---
 
-## 📈 GitHub Stats
-![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasu-3010&show_icons=true&theme=radical)
+<h2>🚀 About Me</h2>
 
-## 📫 Let's Connect
-- 📧 Email: vasu@example.com
-<!--- - 🌐 Portfolio: [myportfolio.com](https://myportfolio.com) --->
-- 💼 LinkedIn: [Vasu Viroja](https://linkedin.com/in/vasuviroja101)
+<ul>
+  <li>💡 I enjoy building web applications using HTML, CSS, JavaScript, PHP</li>
+  <li>🌱 I’m currently learning React.js and cloud technologies</li>
+  <li>📫 Reach me at: <a href="mailto:vasu@example.com">vasu@example.com</a></li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-3010&show_icons=true&theme=tokyonight" />
+</p>
