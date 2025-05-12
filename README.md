@@ -4,10 +4,10 @@
   <b>Web Developer | Student | Open Source Enthusiast</b>
 </p>
 
----
+
 <p>Motivated and detail-oriented B.Tech IT student with a foundation in programming, web development, and database management. Passionate about technology and eager to apply problem-solving skills in real-world
  projects. Looking for an opportunity to contribute to a dynamic team and enhance my technical expertise. </p>
----
+
 
 ---
 
@@ -20,12 +20,10 @@
 </ul>
 ---
 
----
-<h2>Projects</h2>
-<ul>
-  <li>Lifeline Donor's</li>
-</ul>
----
+## 📁 Projects
+
+### Lifeline Donor's
+<p> The main aim of this project is to save lives of people by providing blood. Our project Online Blood Bank system Android is Developed so that users can view the information of nearby volunteer donors. This is developed by perspectives i.e. volunteer donors and patient. This application reduces the time to a greater extent that is serching for the required blood</p>
 
 <h2>📊 GitHub Stats</h2>
 
