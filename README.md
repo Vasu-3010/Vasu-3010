@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Vasu Viroja
-<!--- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-Vasu-3010/Vasu-3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👋 Hi, I'm Vasu Viroja</h1>
+
+<p align="center">
+  <b>Web Developer | Student | Open Source Enthusiast</b>
+</p>
+
+---
+
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>💡 I enjoy building web applications using HTML, CSS, JavaScript, PHP</li>
+  <li>🌱 I’m currently learning React.js and cloud technologies</li>
+  <li>📫 Reach me at: <a href="mailto:vasu@example.com">vasu@example.com</a></li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-3010&show_icons=true&theme=tokyonight" />
+</p>
