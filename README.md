@@ -13,7 +13,7 @@
   <li>U.V. Patel College of engineering, Ganpat University, Kherva</li>
     <ul>
       <li>Program : B.Tech Information Technology </li>
-    <li>Year : 3rd Year (currently)</li>
+    <li>Year : 4th Year (currently)</li>
   </ul>
 </ul>
 
