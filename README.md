@@ -22,8 +22,8 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>💡 I enjoy building web applications using HTML, CSS, JavaScript, PHP</li>
-  <li>🌱 I’m currently learning PHP and cloud technologies</li>
+  <li>💡 I enjoy building web applications using HTML, CSS, JavaScript/li>
+  <li>🌱 I’m currently learning MERN Stack and cloud technologies</li>
   <li>📫 Reach me at: <a href="http://www.linkedin.com/in/vasuviroja101">vasuviroja101</a></li>
 </ul>
 
@@ -35,9 +35,3 @@
 
 ### 💻 Portfolio
 <p> The **Portfolio Website** is a personal project designed to showcase my skills, projects, and achievements in web development. It highlights my journey as a developer, featuring sections like **About Me, Skills, Projects, Resume, and Contact**. This website is built with modern web technologies and serves as a professional representation of my work and creativity. </p>
-
-
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-3010&show_icons=true&theme=tokyonight" />
-</p>
