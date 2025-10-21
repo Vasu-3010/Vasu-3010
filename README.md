@@ -33,8 +33,11 @@
 ### Lifeline Donor's
 <p> The main aim of this project is to save lives of people by providing blood. Our project Online Blood Bank system Android is Developed so that users can view the information of nearby volunteer donors. This is developed by perspectives i.e. volunteer donors and patient. This application reduces the time to a greater extent that is serching for the required blood</p>
 
-<h2>📊 GitHub Stats</h2>
+### 💻 Portfolio
+<p> The **Portfolio Website** is a personal project designed to showcase my skills, projects, and achievements in web development. It highlights my journey as a developer, featuring sections like **About Me, Skills, Projects, Resume, and Contact**. This website is built with modern web technologies and serves as a professional representation of my work and creativity. </p>
 
+
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vasu-3010&show_icons=true&theme=tokyonight" />
 </p>
