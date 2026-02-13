@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Vasu Viroja</h1>
 
 <p align="center">
-  <b>Web Developer | Student | Open Source Enthusiast</b>
+  <b>Web Developer | Student</b>
 </p>
 
 
